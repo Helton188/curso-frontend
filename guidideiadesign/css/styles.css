@@ -58,6 +58,21 @@ p {
     color: #5F7178;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#tenho-interesse {
+    background-color: #b6ced8;
+    width: 100%;
+}
+
+#tenho-interesse form, .cog-0-label .cog-label {
+    background-color: #b6ced8 !important;
+}
+
+
 ol {
     margin-bottom: 10px;
     line-height: 1.4;
@@ -128,6 +143,7 @@ footer small {
     display: block;
 }
 
-.EYFnmL_dUEmnSLdh2ep9xw {
-    visibility: hidden !important;
+.cognito {
+    height: 380px !important;
+    overflow: hidden !important;
 }
